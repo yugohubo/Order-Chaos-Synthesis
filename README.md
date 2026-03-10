@@ -12,7 +12,12 @@ Rules are:
 
 3- Axis Choice
 
+
+
 <img width="1920" height="967" alt="N_25_sim_outcome" src="https://github.com/user-attachments/assets/665fdbc5-af61-4581-8a1c-84855e197a2e" />
+
+
+<img width="1920" height="967" alt="N_3_sim_outcome" src="https://github.com/user-attachments/assets/38b10971-8602-404c-9050-360b37302559" />
 
 
 # Order & Chaos Synthesis: Complex Systems Simulation
